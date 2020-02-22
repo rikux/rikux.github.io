@@ -1,18 +1,16 @@
 CLASSES = {
-  0: 'alma',
-  1: 'butler',
-  2: 'dante',
-  3: 'fountain',
-  4: 'low',
-  5: 'tao',
-  6: 'walk',
+  0: 'class0',
+  1: 'class1',
+  2: 'class2',
+  3: 'class3',
+  4: 'class4',
 };
 
 const MODEL_PATH =
     'model.json';
 
 const IMAGE_SIZE = 192;
-const TOPK_PREDICTIONS = 7;
+const TOPK_PREDICTIONS = 5;
 
 let my_model;
 const demo = async () => {
