@@ -1,7 +1,7 @@
 CLASSES = {
   0: 'alma',
   1: 'butler',
-  2: 'dante',
+  2: 'dante/thinker',
   3: 'fountain',
   4: 'low',
   5: 'tao',
